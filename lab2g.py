@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-# Author: Your Name
-# Author ID: your_seneca_id
-# Date Created: yyyy/mm/dd
+# Author: rakshit rakshit
+# Author ID: rrakshit
+# Date Created: 2024/09/25
 import sys
 
 if len(sys.argv) == 2:
