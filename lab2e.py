@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-# Author: Your Name
-# Author ID: your_seneca_id
-# Date Created: yyyy/mm/dd
+# Author: Rakshit
+# Author ID: rrakshit@myseneca.ca
+# Date Created: 2024/09/25
 
 timer = 10
 while timer > 0:
